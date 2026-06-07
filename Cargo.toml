@@ -1,0 +1,11 @@
+[package]
+name = "fs-layout"
+version = "0.1.0"
+edition = "2021"
+description = "Filesystem layout simulation: inodes, directory tree, block allocation bitmap, path resolution"
+license = "MIT"
+repository = "https://github.com/SuperInstance/fs-layout"
+keywords = ["filesystem", "inode", "directory", "bitmap", "path-resolution"]
+categories = ["filesystem", "simulation"]
+authors = ["SuperInstance"]
+readme = "README.md"
